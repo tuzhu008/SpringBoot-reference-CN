@@ -1,3 +1,4 @@
-# My Awesome Book
+# Spring Boot 参考指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文档为 Spring Boot 官方文档之蹩脚中文翻译，仅为本人学习 Spring Boot 记录
+
